@@ -50,7 +50,7 @@ The key insight: randomly rotate a vector and each coordinate becomes approximat
 
 Quality is within 2.72x of the information-theoretic optimum (Shannon lower bound) at every bit width. This bound is provable and data-independent — it holds for any vector, not just your benchmark.
 
-**Paper:** Zandieh, Daliri, Hadian, Mirrokni. *TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.* ICLR 2026. [arXiv:2504.19874](https://arxiv.org/abs/2504.19874)
+**Paper:** Zandieh, Daliri, Hadian, Mirrokni. *TurboQuant: Online Vector Quantization with Near-optimal Distortion Rate.* 2025. [arXiv:2504.19874](https://arxiv.org/abs/2504.19874)
 
 **Reference implementations:**
 - [turboquant](https://github.com/back2matching/turboquant) — PyTorch, KV cache focus, GPU support

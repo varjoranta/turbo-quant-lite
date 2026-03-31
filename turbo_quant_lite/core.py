@@ -2,7 +2,7 @@
 
 Implements the core algorithm from:
   Zandieh, Daliri, Hadian, Mirrokni. "TurboQuant: Online Vector Quantization
-  with Near-optimal Distortion Rate." ICLR 2026. arXiv:2504.19874
+  with Near-optimal Distortion Rate." 2025. arXiv:2504.19874
 
 Codebook values from Lloyd-Max optimal solution for the Beta distribution
 on the unit hypersphere at d=512, verified against the Rust reference
